@@ -1,6 +1,6 @@
-# generate master dates in sql server
+# Generar una tabla master Dates
 
-##### This sp, generate a table called Master_Dates for BI and reports, where is necessary all Dates.
+##### El siguiente sp, genera una tabla llamada master-Dates, se utiliza mucho en BI, en reportes en donde la información, no cuenta con todos los meses y deben ser mostrados en el reporte en 0.
 
 ```sh
 mDate       datetime
